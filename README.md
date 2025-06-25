@@ -56,13 +56,6 @@ This project is structured and implemented in compliance with **Hexavarsity’s 
 ## 🙌 **Acknowledgements**
 
 This project was completed as part of the **Enterprise MySQL Developer training** at *Hexavarsity by Hexaware Technologies*.  
-Special thanks to our **mentors and reviewers** for their guidance and feedback.
-hshop.png) <!-- Replace with your actual image URL -->
-
+Special thanks to our **mentors (Munna pandey) and reviewers** for their guidance and feedback.
 
 ---
-
-## 🙌 **Acknowledgements**
-
-This project was completed as part of the **Enterprise MySQL Developer training** at *Hexavarsity by Hexaware Technologies*.  
-Special thanks to our **mentors and reviewers** for their guidance and feedback.
