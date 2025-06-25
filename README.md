@@ -2,18 +2,6 @@
 
 > 📊 *A full-fledged SQL + OOP-based backend system to manage electronic gadget sales at TechShop.*
 
----
-
-![TechShop Banner](https://user-images.githubusercontent.com/placeholder-image/banner-tec# 🚀 **Hexaware_SQL_Assignment**
-
-> 📊 *A full-fledged SQL + OOP-based backend system to manage electronic gadget sales at TechShop.*
-
----
-
-![TechShop Banner](https://user-images.githubusercontent.com/placeholder-image/banner-techshop.png) <!-- Replace with your actual image URL -->
-
----
-
 ## 📌 **Project Overview**
 
 The **TechShop Management System** is a comprehensive object-oriented and database-integrated application developed and designed to manage electronic gadget sales for a fictional company named *TechShop*. It features robust SQL operations, object-oriented principles, custom exception handling, and full-stack functionality for managing products, customers, orders, inventory, and more.
